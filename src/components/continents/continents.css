@@ -1,0 +1,13 @@
+.jobs-box{
+ margin-top: 3%;
+ box-shadow: 0px 0px 1px;
+}
+.jobs-box-content{
+    padding: 10px 5px;
+}
+.panel-title a{
+    text-decoration: none;
+}
+.country-code{
+    margin-left: 5px;
+}
