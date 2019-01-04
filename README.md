@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #setup
 1. install npm package maager
-2. install  ApolloClient to use GRAPHQL 
+2. Clone using git command 
+3. install  ApolloClient to use GRAPHQL 
 
 ## Available Scripts
 
